@@ -12,6 +12,8 @@ The Weather Dashboard Application is a React.js-powered web app that provides re
 - [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
 
+![image](https://github.com/iamsaurabh7/WeatherAPP/assets/91486795/f431d2a0-f99b-4506-a803-ad68e37ef61b)
+
 ## Features
 
 1. **Current Location Weather:**

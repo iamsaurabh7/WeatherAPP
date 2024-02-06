@@ -10,9 +10,6 @@ The Weather Dashboard Application is a React.js-powered web app that provides re
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -60,6 +57,7 @@ npm start
 
 Open your browser and go to http://localhost:3000
 
+```
 ### Acknowledgements
 Chakra UI
 React.js
